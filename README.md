@@ -55,7 +55,3 @@ pnpm dev
 Next.js: Framework for building the app
 Cloudinary API: File hosting and URL generation
 Tailwind CSS: Beautiful UI styling
-
-```
-
-```
