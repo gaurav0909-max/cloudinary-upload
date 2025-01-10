@@ -17,8 +17,6 @@ Easily upload images, PDFs, or any kind of document to Cloudinary and get the UR
 
 Follow these steps to set up and run the project locally:
 
-### 1️⃣ Install Dependencies
-
 Run the following command to install required packages:
 
 ```bash
