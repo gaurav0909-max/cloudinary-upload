@@ -31,6 +31,7 @@ pnpm install
 
 START THE DEVELOPMENT SERVER
 
+```bash
 npm run dev
 
 # or
@@ -40,14 +41,21 @@ yarn dev
 # or
 
 pnpm dev
+```
 
-🛠️ How It Works =>
+##🛠️ How It Works =>
 
 🌐 Upload: Choose or drag-and-drop a file.
 ⏳ Processing: File is uploaded to Cloudinary.
 📎 Get URL: Receive the Cloudinary URL instantly.
 
-✨ Technologies Used
+---
+
+##✨ Technologies Used
 Next.js: Framework for building the app
 Cloudinary API: File hosting and URL generation
 Tailwind CSS: Beautiful UI styling
+
+```
+
+```
