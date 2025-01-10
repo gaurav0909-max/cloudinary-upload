@@ -29,7 +29,7 @@ yarn install
 pnpm install
 ```
 
-START THE DEVELOPMENT SERVER
+Start the development server
 
 ```bash
 npm run dev
