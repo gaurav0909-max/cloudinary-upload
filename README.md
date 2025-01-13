@@ -1,4 +1,4 @@
-# 📤 Cloudinary Uploader
+# 📤 **Cloudinary Media Uploader**
 
 Easily upload images, PDFs, or any kind of document to Cloudinary and get the URL instantly! 🚀
 
@@ -17,15 +17,17 @@ Easily upload images, PDFs, or any kind of document to Cloudinary and get the UR
 
 Follow these steps to set up and run the project locally:
 
-Run the following command to install required packages:
+1. Install required packages:
 
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
+   ```bash
+   npm install
+   # or
+   yarn install
+   # or
+   pnpm install
+   ```
+
+````
 
 Start the development server
 
@@ -39,7 +41,7 @@ yarn dev
 # or
 
 pnpm dev
-```
+````
 
 ##🛠️ How It Works =>
 
